@@ -1,0 +1,54 @@
+/* All Common CSS Start */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ol,ul{
+    list-style-type: none;
+}
+
+a,a:hover{
+    display: inline-block;
+    text-decoration: none;
+}
+
+body{
+    background: rgb(255, 252, 220);
+    text-align: center;
+    font-family: "Exo 2", serif;
+}
+/* All Common CSS End */
+
+/* Name Part Start */
+.counterItem{
+    background: black;
+    color: #fff;
+    border-radius: 10px;
+    padding: 20px 10px;
+    margin: 20px 0;
+}
+/* Name Part End */
+
+
+/* Name Part Start */
+.countDownItem{
+    background: #000B58;
+    color: #FFE893;
+    border-radius: 10px;
+    padding: 20px 10px;
+    margin: 20px 0;
+}
+
+.lightboxItem img{
+    border-radius: 10px;
+    border: 5px solid #32012F;
+}
+.venoBoxItem img{
+    border-radius: 10px;
+    border: 5px solid #F73D93;
+}
+/* Name Part End */
+
+
